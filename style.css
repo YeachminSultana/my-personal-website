@@ -26,7 +26,8 @@ P{
 
 }
 .half-width img{
-    width:100%;
+    width:90%;
+
 }
 .top-banner{
     background-image: url("footer-bg.png");
@@ -120,7 +121,5 @@ p{
 footer p{
 
     text-align: center;
-}
-.work{
     text-align: center;
 }
